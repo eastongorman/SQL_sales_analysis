@@ -22,5 +22,5 @@ The data used consituted of the following tables:
 - Film
 - Category
 - Language
-- # Source
-- The data source was from Rockbuster Stealth LLC.
+# Source
+The data source was from Rockbuster Stealth LLC.
